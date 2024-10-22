@@ -36,7 +36,7 @@ This README file provides a detailed breakdown of various SQL operations for dat
 16. [Triggers and Events](#Triggers-and-Events)
     -[Types of Triggers](#Types-of-Triggers)
     -[Events](#Events)
-    [CONCLUSIONS](#CONCLUSIONS)
+   [CONCLUSIONS](#CONCLUSIONS)
 
 ## Basic Operations
 ### Querying Data
@@ -271,6 +271,7 @@ END;
    -Improves database management by triggering actions based on time or conditions.
 
 ## CONCLUSIONS
+This roadmap provides an essential SQL foundation for data analysis and data science tasks. With these SQL operations, you'll be able to manage, retrieve, and analyze data more effectively.
 
 
 
