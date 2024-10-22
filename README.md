@@ -16,7 +16,7 @@ This README file provides a detailed breakdown of various SQL operations for dat
     -[Using LIKE](#Using-LIKE)
     -[Checking for NLL Values](#Checking-for-NULL-Values)
     -[Using REGEXP](#Using-REGEXP)
-    -[Logical Operators(#Logical-Operators)
+    -[Logical Operators](#Logical-Operators)
 7. [Sorting and Limiting Data](#Sorting-and-Limiting-Data)
     -[Sorting with ORDER BY](#Sorting-with-ORDER-BY)
     -[Limiting Rows with LIMIT](#Limiting-Rows-with-LIMIT)
